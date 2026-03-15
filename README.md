@@ -1,4 +1,6 @@
-# Price Comparison for a Service Across Different Regions.
+# Introduction to Cloud Computing Assignment
+
+## Price Comparison for a Service Across Different Regions.
 
 ## Steps taken and lessons learned.
 
